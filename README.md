@@ -29,5 +29,5 @@ In a second iteration, the search enginge database content could be shared betwe
 
 In a third iteration, why not include a simple social network microblogging system in it? Small, selfcontained html pages that cannot connect to anything outside. These messages could be again saved on an included distributed file system - freenet, some ipfs clone over i2p, whatever. 
 
-#who benefits
+# who benefits
 With such a system we could bring discussion and interaction in society back into a censorship safe place on the internet. Basically restore the human rights situation to the level we had in the analogue world. Still, bots can be created and messages can be monitored. But it will be much more difficult if the monitoring powers need to infiltrate every circle to get everything.
